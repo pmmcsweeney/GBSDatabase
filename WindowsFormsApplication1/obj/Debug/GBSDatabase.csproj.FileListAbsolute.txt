@@ -1,0 +1,26 @@
+Y:\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Y:\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\GBSDatabase.csproj.ResolveComReference.cache
+Y:\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Y:\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\GBSDatabase.csproj.ResolveComReference.cache
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\MongoDB.Bson.dll
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.Core.dll
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.dll
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.Legacy.dll
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\MongoDB.Bson.xml
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.xml
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\bin\Debug\MongoDB.Driver.Legacy.xml
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\GBSDatabase.csprojResolveAssemblyReference.cache
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CultivarImport.resources
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CultivarSpreadsheetImport.resources
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Import_MtoC_map.resources
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainWindow.resources
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MarkerSpreadsheetImport.resources
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MSMarkerImport_Manual.resources
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\WRSGGL2014-1\Genotyping Projects\Users\Patrick McSweeney\genotyping markers & cultivars database\GBSDatabase\WindowsFormsApplication1\obj\Debug\GBSDatabase.csproj.GenerateResource.Cache
